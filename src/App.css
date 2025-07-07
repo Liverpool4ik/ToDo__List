@@ -32,3 +32,16 @@
 	padding: 20px;
 	color: #030b01;
 }
+
+.blockName {
+	display: flex;
+}
+
+.blockName input {
+	width: 15px;
+	height: 15px;
+}
+
+.doneLinedItem {
+	text-decoration: line-through;
+}
