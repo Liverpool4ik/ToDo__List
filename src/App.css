@@ -42,6 +42,26 @@
 	height: 15px;
 }
 
-.doneLinedItem {
+.linedItem {
 	text-decoration: line-through;
+}
+
+.icons {
+	display: flex;
+}
+
+.icons div {
+	margin-left: 10px;
+}
+
+.editIcon {
+	cursor: pointer;
+}
+
+.deleteIcon {
+	cursor: pointer;
+}
+
+.editedItemInput {
+	max-width: 150px;
 }
